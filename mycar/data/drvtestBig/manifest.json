@@ -1,0 +1,5 @@
+["cam/image_array", "user/angle", "user/throttle", "user/mode"]
+["image_array", "float", "float", "str"]
+{}
+{"created_at": 1664991989.8061538, "sessions": {"all_full_ids": ["22-10-05_0", "23-01-04_1", "23-01-04_2", "23-01-04_3", "23-01-04_4", "23-01-04_5", "23-01-04_6", "23-01-05_7", "23-01-05_8", "23-01-05_9", "23-01-05_10", "23-01-05_11"], "last_id": 11, "last_full_id": "23-01-05_11"}}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog", "catalog_7.catalog", "catalog_8.catalog", "catalog_9.catalog", "catalog_10.catalog", "catalog_11.catalog", "catalog_12.catalog", "catalog_13.catalog", "catalog_14.catalog", "catalog_15.catalog", "catalog_16.catalog", "catalog_17.catalog", "catalog_18.catalog", "catalog_19.catalog", "catalog_20.catalog", "catalog_21.catalog", "catalog_22.catalog", "catalog_23.catalog", "catalog_24.catalog", "catalog_25.catalog", "catalog_26.catalog"], "current_index": 26082, "max_len": 1000, "deleted_indexes": []}
