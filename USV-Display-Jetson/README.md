@@ -8,7 +8,7 @@ hier mit können daten auf dem OLED display angezeigt werden
 
 On the jetson nano, run the USV-display installation script
 
-    git clone https://github.com/waveshare/UPS-Power-Module
-    cd UPS-Power-Module
+    git clone https://github.com/MaxKru/Autonomous-Rc-Car-.git
+    cd USV-Display-Jetson
     ./install.sh <password>
 
